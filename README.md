@@ -84,7 +84,7 @@ A full-stack academic record and application system built using **React**, **Nes
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kishorekumarj79&theme=radical&border_radius=5" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Kishore2212061&theme=radical&border_radius=5" alt="GitHub Streak" />
   <img src="https://github-profile-trophy.vercel.app/?username=kishorekumarj79&theme=radical&margin-w=10&margin-h=15" alt="Trophies" />
 </p>
 

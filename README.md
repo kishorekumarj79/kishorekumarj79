@@ -79,7 +79,7 @@ A full-stack academic record and application system built using **React**, **Nes
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kishorekumarj79&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kishore2212061&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishorekumarj79&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 

@@ -90,13 +90,6 @@ A full-stack academic record and application system built using **React**, **Nes
 
 ![Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=kishorekumarj79&show_icons=true&theme=radical)
 
----
-
-### ⏲ WakaTime Stats
-
-![WakaTime](https://github-readme-stats-fast.vercel.app/api/wakatime?username=kishorekumarj79)
-
----
 
 
 ### 🔗 Let's Connect!

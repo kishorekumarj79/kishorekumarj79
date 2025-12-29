@@ -81,21 +81,21 @@ A full-stack academic record and application system built using **React**, **Nes
 ### 🐍 GitHub Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pranesh-2005/Pranesh-2005/output/github-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/kishorekumarj79/kishorekumarj79/output/github-snake.svg"/>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats-fast.vercel.app/api?username=pranesh-2005&show_icons=true&theme=radical&cache_seconds=0)  
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pranesh-2005&layout=compact&theme=radical)  
+![Stats](https://github-readme-stats-fast.vercel.app/api?username=kishorekumarj79&show_icons=true&theme=radical&cache_seconds=0)  
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kishorekumarj79&layout=compact&theme=radical)  
 
 ---
 
 ### 🔥 Contribution Streak
 
-![Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=pranesh-2005&show_icons=true&theme=radical)
+![Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=kishorekumarj79&show_icons=true&theme=radical)
 
 ---
 
@@ -108,7 +108,7 @@ A full-stack academic record and application system built using **React**, **Nes
 ### 👁 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pranesh-2005&label=Profile%20views&color=0e75b6&style=flat" alt="Pranesh-2005" />
+  <img src="https://komarev.com/ghpvc/?username=kishorekumarj79&label=Profile%20views&color=0e75b6&style=flat" alt="Pranesh-2005" />
 </p>
 ---
 

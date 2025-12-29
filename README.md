@@ -98,12 +98,6 @@ A full-stack academic record and application system built using **React**, **Nes
 
 ---
 
-### 👁 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pranesh-2005&label=Profile%20views&color=0e75b6&style=flat" alt="Pranesh-2005" />
-</p>
----
 
 ### 🔗 Let's Connect!
 

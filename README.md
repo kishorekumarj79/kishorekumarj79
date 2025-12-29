@@ -78,20 +78,38 @@ A full-stack academic record and application system built using **React**, **Nes
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kishore2212061&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishorekumarj79&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+### 🐍 GitHub Snake
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kishore2212061&theme=radical&border_radius=5" alt="GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=kishorekumarj79&theme=radical&margin-w=10&margin-h=15" alt="Trophies" />
+  <img src="https://raw.githubusercontent.com/Pranesh-2005/Pranesh-2005/output/github-snake.svg"/>
 </p>
+
+---
+
+### 📊 GitHub Stats
+
+![Stats](https://github-readme-stats-fast.vercel.app/api?username=pranesh-2005&show_icons=true&theme=radical&cache_seconds=0)  
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pranesh-2005&layout=compact&theme=radical)  
+
+---
+
+### 🔥 Contribution Streak
+
+![Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=pranesh-2005&show_icons=true&theme=radical)
+
+---
+
+### ⏲ WakaTime Stats
+
+![WakaTime](https://github-readme-stats-fast.vercel.app/api/wakatime?username=praneshjs)
+
+---
+
+### 👁 Profile Views
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kishorekumarj79&theme=radical" alt="Activity Graph" />
+  <img src="https://komarev.com/ghpvc/?username=Pranesh-2005&label=Profile%20views&color=0e75b6&style=flat" alt="Pranesh-2005" />
 </p>
-
 ---
 
 ### 🔗 Let's Connect!

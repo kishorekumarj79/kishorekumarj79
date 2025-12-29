@@ -94,7 +94,7 @@ A full-stack academic record and application system built using **React**, **Nes
 
 ### ⏲ WakaTime Stats
 
-![WakaTime](https://github-readme-stats-fast.vercel.app/api/wakatime?username=praneshjs)
+![WakaTime](https://github-readme-stats-fast.vercel.app/api/wakatime?username=kishorekumarj79)
 
 ---
 

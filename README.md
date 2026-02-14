@@ -4,7 +4,7 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kishore2212061&label=⚡+Views&color=00D9FF&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Kishore2212061&label=⚡+Views&color=2750F5&style=for-the-badge)
 
 <br>
 
@@ -430,7 +430,7 @@ $ git clone https://github.com/Kishore2212061 # GitHub
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kishore2212061&label=⚡+Views&color=00D9FF&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Kishore2212061&label=⚡+Views&color=2750F5&style=for-the-badge)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 

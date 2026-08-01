@@ -4,7 +4,7 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kishore2212061&label=⚡+Views&color=2750F5&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=kishorekumarj79&label=⚡+Views&color=2750F5&style=for-the-badge)
 
 <br>
 
@@ -321,16 +321,16 @@ const projectArchitecture = {
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kishore2212061&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kishore2212061&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=F8D866&currStreakLabel=F8D866" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=kishorekumarj79&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kishorekumarj79&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=F8D866&currStreakLabel=F8D866" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore2212061&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&langs_count=8" />
-<img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kishore2212061&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishorekumarj79&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&langs_count=8" />
+<img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=kishorekumarj79&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 
 </div>
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kishore2212061&theme=tokyonight" width="900" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kishorekumarj79&theme=tokyonight" width="900" />
 </div>
 
 <div align="center">
@@ -430,7 +430,7 @@ $ git clone https://github.com/Kishore2212061 # GitHub
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kishore2212061&label=⚡+Views&color=2750F5&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=kishorekumarj79&label=⚡+Views&color=2750F5&style=for-the-badge)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
